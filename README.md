@@ -6,9 +6,7 @@
 
 2. This program is written in python 3.7, using only python’s built-in libraries.
 
-3. This program contains a main() method that:
-
-4. This program checks whether or not the password that is entered by the user (via console input) is acceptable or not.  Password acceptance is determined by the following rules:
+3. This program contains a main() method that hecks whether or not the password that is entered by the user (via console input) is acceptable or not.  Password acceptance is determined by the following rules:
 
     a. At least 1 letter between [a-z]
 
