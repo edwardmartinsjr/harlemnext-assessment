@@ -17,7 +17,7 @@
     c. At least 1 letter between [A-Z]
 
     d. At least 1 special character within [$%#]
-    
+
     e. At least 6 characters long but not more than 12 characters
 
 If password is accepted print to screen “Accepted” else “Not Accepted”
@@ -29,5 +29,5 @@ python test_main.py -v
 
 6. Run:
 ```
-python main.py -p s0m3#N1c3%P4$$w0rD
+python main.py -p s0m3#%P4$$wD
 ```
