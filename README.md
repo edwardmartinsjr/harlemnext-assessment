@@ -11,9 +11,13 @@
 4. This program checks whether or not the password that is entered by the user (via console input) is acceptable or not.  Password acceptance is determined by the following rules:
 
     a. At least 1 letter between [a-z]
+
     b. At least 1 numbr between [0-9]
+
     c. At least 1 letter between [A-Z]
+
     d. At least 1 special character within [$%#]
+    
     e. At least 6 characters long but not more than 12 characters
 
 If password is accepted print to screen “Accepted” else “Not Accepted”
