@@ -27,5 +27,10 @@ python test_main.py -v
 
 6. Run:
 ```
-python main.py -p s0m3#%P4$$wD
+python main.py -p 's0m3%P4$$wD'
+```
+
+7. Help:
+```
+python main.py -h
 ```
